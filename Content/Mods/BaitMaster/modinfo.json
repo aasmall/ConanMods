@@ -1,0 +1,16 @@
+{
+	"name": "Bait Master - Passive Fish Generation",
+	"description": "This mod reintroduces passive fish generation.\n\nI don't actually know what the original tick rate was, so I settled on the same rate the beehives use which is 1 fish every 120 seconds. Passive generation is based on the \"insects\" spawn weight, so you'll mostly get unappetizing fish.\n",
+	"changeNote": "Added support for Shellfish Traps and Improved Shellfish Traps.",
+	"author": "Exciderenox",
+	"authorUrl": "https://steamcommunity.com/id/g_ir/",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2287479147",
+	"steamVisibility": 0,
+	"folderName": "BaitMaster",
+	"revisionNumber": 255795,
+	"snapshotId": 26931
+}
